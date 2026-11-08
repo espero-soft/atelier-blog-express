@@ -1,4 +1,4 @@
-> **Copie pédagogique** pour la formation « Claude Code de A à Z : coder avec un agent IA (2026) ».
+> **Copie pédagogique** pour la formation « Claude Code de A à Z : coder avec un agent IA ».
 > Projet original : [github.com/gothinkster/node-express-realworld-example-app](https://github.com/gothinkster/node-express-realworld-example-app), par ses auteurs, sous licence MIT.
 > Le code n'a pas été modifié : il sert d'exemple de projet inconnu à explorer avec Claude Code.
 
